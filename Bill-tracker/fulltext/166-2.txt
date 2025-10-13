@@ -1,0 +1,1509 @@
+Building and Construction (Small Stand-alone Dwellings) Amendment Bill
+Search within this Bill 
+By clauses
+View whole (174KB)
+Versions and APs
+Add to web feed
+Order a commercial print
+Print/Download PDF [262KB]
+Contents
+Previous clause
+Next clause
+Tag clause
+Remove
+Previous hit
+Next hit
+Building and Construction (Small Stand-alone Dwellings) Amendment Bill
+
+Government Bill
+
+166—2
+
+As reported from the Transport and Infrastructure Committee
+
+Commentary
+Recommendation
+
+The Transport and Infrastructure Committee has examined the Building and Construction (Small Stand-alone Dwellings) Amendment Bill and recommends that it be passed. We recommend all amendments unanimously.
+
+Introduction
+
+This bill is intended to reduce the time and cost of building stand-alone dwellings that are 70 square metres or less. It would do this by amending the Building Act 2004 to permit such dwellings (often referred to as “granny flats”) to be constructed without a building consent if certain conditions were met. The conditions are that:
+
+the dwelling is simple in design and would comply with the building code
+
+building work would be carried out by authorised professionals
+
+councils were notified prior to, and on completion of, building work.
+
+The policy behind this bill was in the coalition agreement between the National Party and New Zealand First: “amend the Building Act and the Resource Consent system to make it easier to build granny flats or other small structures up to 60sqm.” We understand that the Government decided to increase this to 70 square metres following public consultation in 2024. We are aware that corresponding changes for resource consenting under the Resource Management Act 1991 are being done through proposed National Environment Standards for Granny Flats. This is expected to take effect by the end of 2025.
+
+Legislative scrutiny
+
+As part of our consideration of the bill, we have examined its consistency with principles of legislative quality. We have no issues regarding the legislation’s design to bring to the attention of the House.
+
+Proposed amendments
+
+This commentary covers the main amendments we recommend to the bill as introduced. We do not discuss all minor or technical amendments.
+
+Interpretation
+
+We propose including some additional definitions in clause 4, amending section 7 (interpretation), to improve the workability of the bill. We recommend inserting:
+
+“final design plans”, referring to the final drawings and specifications to which a small stand-alone dwelling is constructed
+
+“preliminary design plans”, referring to the preliminary design drawings (including a site plan, elevations, and basic sections) to which a small stand-alone dwelling is proposed to be constructed.
+
+We consider that defining these terms will provide certainty around what information should be included and produced when design plans are required.
+
+We also propose inserting a definition of “non-consented small stand-alone dwelling” into other relevant legislation. We recommend inserting:
+
+clause 33A, amending section 2(1) of the Local Government Official Information and Meetings Act 1987
+
+clause 51A, amending regulation 4(1) of the Electricity (Safety) Regulations 2010
+
+clause 54A, amending regulation 3(1) of the Gas (Safety and Measurement) Regulations 2010.
+
+Project information memoranda
+
+Sections 31 to 39 of the Act set out provisions regarding project information memoranda. Memoranda are issued by territorial authorities, and provide information held by an authority that may affect a proposed building project. The information could include details of any existing stormwater or wastewater utility systems that relate to the proposed building work, potential issues with erosion, slippage, or flooding, or the heritage status of an existing building nearby.
+
+Requirements for a project information memorandum
+
+Clause 15, proposed new section 42B, specifies that no building work on a non-consented small stand-alone dwelling could begin before a project information memorandum had been issued under section 34 of the Act. Clause 6 of the bill as introduced would amend section 32 of the Act to allow an owner to apply for a memorandum if they were considering carrying out building work in connection with a non-consented small stand-alone dwelling.
+
+Some submitters commented on an inconsistency between these two clauses. We heard that, under new section 42B, no work could begin before a memorandum was issued, but amended section 32 states that a homeowner “may” apply for a memorandum. We think that clause 15 does require a homeowner to obtain a memorandum before beginning construction; however, we consider that this could be made clearer in the bill. We recommend amending clause 6 to insert new subsection (2) into section 32 to make clear that no building work could begin on a small stand-alone dwelling before a project information memorandum had been issued.
+
+Project information memorandum only required for final site
+
+We consider that the bill as introduced is not sufficiently clear about whether a project information memorandum would be required if the construction of a small stand-alone dwelling occurred in a different location than the final site of that small stand-alone dwelling (for example, if a dwelling is constructed in a factory and then transported to the final site). We consider that a memorandum would only be relevant for the small stand-alone dwelling’s final location, and that it would be unnecessary to obtain one for the offsite location where it was built and transported from. We therefore recommend amending section 34 (through clause 8 of the bill) to clarify that if a memorandum was issued for the final site of a dwelling, no additional memoranda would be required if the dwelling was constructed in a different location.
+
+Information to be provided in project information memorandum
+
+We consider that some information not typically provided in a project information memorandum may be relevant where a non-consented small stand-alone dwelling is being built. Clause 11 of the bill proposes new section 35A, which sets out additional information that must be supplied in such cases.
+
+We recommend several amendments to the list of information territorial authorities are required to provide. We think our amendments would ensure that homeowners have all the information necessary to inform their construction of small stand-alone dwellings. Our amendments:
+
+clarify that territorial authorities should be able to indicate in the memorandum if it is unclear whether the proposed land for construction was likely to be subject to natural hazards (subsection (2)﻿(b)﻿(i))
+
+clarify that territorial authorities should be able to indicate if it is unclear whether the construction of a small stand-alone dwelling was likely to accelerate, worsen, or result in a natural hazard on that land (subsection (2)﻿(b)﻿(ii))
+
+would provide (in subsection (2)﻿(c)) that, if a territorial authority found that there were or were likely to be issues raised under subsections (2)﻿(b)﻿(i) and (ii), the authority would make a statement that a building consent may be required or that preliminary design plans may need to be amended
+
+insert subsection (3), allowing the territorial authority to include any additional information not outlined in section 35A that it considered relevant (including relevant information in district and regional plans).
+
+Information to be kept by territorial authorities
+
+Section 216 of the Act requires territorial authorities to keep information about buildings to enable members of the public to be informed of their obligations and participate effectively under the Act. Subsection (2) specifies the information that must be kept.
+
+Clause 20 of the bill as introduced would insert new paragraph (ba) into subsection (2). Paragraph (ba) sets out that a territorial authority must keep all information it has received in relation to a non-consented small stand-alone dwelling, and lists what this may include. We consider that additional information provided through proposed section 35A should also be kept (under section 216). We therefore recommend amending paragraph (ba) to include the additional information provided under section 35A as information that must be kept by territorial authorities.
+
+Implied warranties
+
+Section 362I of the Act provides a list of implied warranties for building work. Subsection (1)﻿(a)﻿(ii) states that part of the contract is that the building work will be carried out in accordance with the plans and specifications set out in the contract.
+
+Plans and specifications are required as part of the building consenting process. As the bill would allow for non-consented small stand-alone dwellings, this language would not apply. We therefore recommend inserting new clause 21A, which would amend section 362I to provide that, in relation to a non-consented small stand-alone dwelling, building work would have to be carried out in accordance with the final design plans.
+
+Liability protections
+
+Section 392 of the Act sets out that no civil proceedings may be brought against a building consent authority for any of the matters listed in subsection (1). For consistency, as the regime in this bill does not involve building consent authorities, clause 22 of the bill proposes to insert new section 392A. The new section provides a good faith liability protection, stating that no civil proceedings could be brought against a territorial authority for anything related to information provided through section 35A.
+
+Under amendments to section 216 proposed through clause 20 of the bill, territorial authorities would have to store information provided to them in relation to a dwelling. Clause 15, new section 42B(4), would require owners of non-consented small stand-alone dwellings to provide records of work, final design plans, and certificates of work, among other things, to territorial authorities within 20 working days of the completion of building work.
+
+We heard from councils who raised concerns that they could be liable in relation to information that they would have to store, but had not assessed in relation to the construction of the dwelling. We note those concerns and recommend amending new section 392A (through clause 22) to insert good-faith liability protections in relation to information provided under section 42B(4).
+
+Requirements for small stand-alone dwellings
+
+Schedule 1 of the Act describes building work for which a building consent is not required. The bill proposes inserting new Schedule 1A into the Act. This would set out the characteristics and requirements of building work related to small stand-alone dwellings for which building consents are not required.
+
+Non-consented building work is still subject to other legislation
+
+Clause 15 would insert sections 42B and 42C into the Act. Section 42B sets out conditions for building work for which building consent would not be required under Schedule 1A. We recommend inserting subsection (7) into section 42B to clarify that, despite not requiring a building consent, specified building work would still be subject to requirements under other legislation (or documents under that legislation), unless the context otherwise requires. For example, the New Zealand Code of Practice for Safe Electrical Distances would still apply unless the context specified otherwise.
+
+Proposed amendments to building work requirements
+
+Clause 2 of proposed Schedule 1A of the Act sets out the requirements for small stand-alone dwellings. We recommend amending clause 2 to clarify that non-consented dwellings could not contain a mezzanine floor. Mezzanine floors are often higher-risk work. Also, constructing one would mean that a building would not align with the requirement in clause 1 of Schedule 1A (that a small stand-alone dwelling has a single storey only).
+
+We considered whether the two subclauses relating to building height and foundation height in new Schedule 1A clause 2(1)﻿(b) and (c) could be merged for simplicity, and to provide more flexibility in housing design. We received advice that this may introduce more complex foundation and roofing designs, creating higher risk. While we have no changes to recommend at this time, we consider that as trades evolve and competencies increase these provisions could be revisited. We note that the requirements in clause 2 can be changed by Order in Council. We encourage the Minister to monitor whether these provisions need to be adjusted in future, following their real-world application.
+
+Resource consents and network utility connections
+
+We note that, despite not requiring a building consent, a homeowner might still need to apply for a resource consent for certain matters, such as earthworks or works related to plumbing and drainage.
+
+We consider that it is very important for people to properly understand that some resource consents may still be required despite not needing a building consent for the building itself. We are advised that requirements for resource consents are set out in local authorities’ district and regional plans.
+
+Our proposed amendment to clause 11 of the bill (new section 35A(3)) would set out that territorial authorities may include additional information in project information memoranda that they believed was relevant, such as any applicable requirements set out in district and regional plans. When applying for a project information memorandum, a homeowner would have to indicate if they intend to seek approval to connect to network utility operator systems. A network utility operator (or territorial authority acting as one) can place conditions on the connection to a network utility operator system, such as specifying the specific tradespeople who must carry out the connection. No changes are proposed to this current approach.
+
+A network utility operator has discretion on the requirements that must be met and the conditions that can be placed on someone who wishes to connect to its network. However, these must be based on existing powers set in legislation other than the Building Act (such as the Health Act 1956 or the Water Services Act 2021). For example, a network utility operator may require devices for backflow prevention to be installed, to protect network infrastructure and public health against the risk of backflow into a reticulated drinking water supply. This could be at the point of supply, or on the property or allotment itself. Some councils or operators publish these requirements and policies on their websites.
+
+Under G12 of the Building Code, housing is considered low risk, and therefore is exempt from the requirements of backflow prevention/containment backflow prevention specified under G12/AS1 3.0 Protection of potable water. This also extends to premises that only contain household units.
+
+While we understand the importance of making sure that people are not able to connect to networks without the proper authority and recommend no changes at this time, we also want to ensure this provision ensures network utility operators do not set conditions that would allow them to access and make changes to and within the structure of the dwelling itself.
+
+Proposed amendments to network utility connections
+
+In the bill as introduced, clause 2(1)﻿(h) of new Schedule 1A would require the water supply, sanitary plumbing, and drainage of a small stand-alone dwelling to be “simple” and designed and built in accordance with specified acceptable solutions for compliance with the building code. We consider that these requirements could be made much clearer, as “simple” is too subjective. We therefore recommend inserting new subclause (1A) into clause 2 of the Schedule, which lists specific requirements for water supply, sanitary plumbing, and drainage systems.
+
+Clause 2(1)﻿(h)﻿(ii) states that water supply, sanitary plumbing, and drainage would have to connect to network utility operator services if available, and otherwise to on-site systems.
+
+We recommend three major amendments, along with some minor wording changes, to improve workability of these provisions. These are to:
+
+insert new paragraph (ha) into subclause (1) to require any on-site system to be designed and built in accordance with any applicable acceptable solution set out in subsection (1)﻿(h)﻿(i), and verification methods E1/VM1 and G13/VM4 (if applicable)
+
+insert new subclause (1B) to clarify that connection to a network utility operator system or an on-site system, or building work in connection with an on-site system, would not require a building consent
+
+insert new clause 3 into the Schedule which sets out definitions including:
+
+“not available”, in relation to a network utility operator system, meaning that there is not a system sufficiently close to the dwelling, or that a system that is sufficiently close does not have enough capacity
+
+“on-site system”, meaning a system for the independent management of stormwater, wastewater, or water supply that does not connect to a network utility operator system.
+
+Our proposed clause 3 would also define all acceptable solutions and verification methods referred to in the Schedule.
+
+Appendix
+Committee process
+
+The Building and Construction (Small Stand-alone Dwellings) Amendment Bill was referred to this committee under urgency on 22 May 2025. (The calendar date was 23 May 2025.) The House instructed us to report the bill back no later than 23 September 2025.
+
+We called for submissions on the bill with a closing date of 23 June 2025. We received and considered submissions from 171 interested groups and individuals. We heard oral evidence from 17 submitters at hearings in Wellington and via videoconference.
+
+Advice on the bill was provided by the Ministry of Business, Innovation and Employment, the Ministry for the Environment, and the Department of Internal Affairs. The Office of the Clerk provided advice on the bill’s legislative quality. The Parliamentary Counsel Office assisted with legal drafting. The Regulations Review Committee reported to us on the powers contained in clause 14.
+
+Committee membership
+
+Andy Foster (Chairperson)
+
+Dan Bidois
+
+Dr Carlos Cheung
+
+Hon Julie Anne Genter
+
+Mariameno Kapa-Kingi
+
+Cameron Luxton
+
+Dr Tracey McLellan
+
+Tangi Utikere
+
+Mark Cameron and Arena Williams participated in our consideration of this bill.
+
+Related resources
+
+The documents we received as advice and evidence are available on the Parliament website.
+
+Key to symbols used
+
+text inserted
+
+text deleted
+
+Hover your cursor over an amendment for information about that amendment. Download the PDF version to see this information in a form that can be printed out.
+
+Hon Chris Penk
+
+Building and Construction (Small Stand-alone Dwellings) Amendment Bill
+
+Government Bill
+
+166—2
+
+Contents
+	Commentary	
+	Key	
+1	Title	
+2	Commencement	
+	
+Part 1
+Amendments to Building Act 2004
+	
+3	Principal Act	
+4	Section 7 amended (Interpretation)	
+5	Section 12 amended (Role of building consent authority and territorial authority)	
+6	Section 32 amended (Owner may apply for project information memorandum)	
+7	Section 33 amended (Content of application)	
+8	Section 34 amended (Issue of project information memorandum)	
+9	New section 34A inserted (Lapse of project information memorandum for non-consented small stand-alone dwelling)	
+	34A	Lapse of project information memorandum for non-consented small stand-alone dwelling	
+10	Section 35 amended (Content of project information memorandum)	
+11	New section 35A inserted (Additional information to be supplied in certain circumstances)	
+	35A	Additional information to be supplied in certain circumstances	
+12	Section 36 amended (Territorial authority may issue development contribution notice)	
+13	Section 37 amended (Territorial authority must issue certificate if resource consent required)	
+14	Section 41 amended (Building consent not required in certain cases)	
+15	New sections 42B and 42C inserted	
+	42B	Building work for which building consent is not required under Schedule 1A	
+	42C	Purpose of section 42B(4)	
+16	New section 45AA inserted (Certificate of work required for non-consented small stand-alone dwelling)	
+	45AA	Certificate of work required for non-consented small stand-alone dwelling	
+17	Section 88 amended (Licensed building practitioner to provide record of work in respect of restricted building work)	
+18	Section 90D amended (Owner-builder exemption)	
+19	Section 177 amended (Application for determination)	
+20	Section 216 amended (Territorial authority must keep information about buildings)	
+21	Section 317 amended (Grounds for discipline of licensed building practitioners)	
+21A	Section 362I amended (Implied warranties for building work in relation to household units)	
+21B	Section 362V amended (Offence for commercial on-seller to transfer household unit without code compliance certificate)	
+22	New section 392A inserted (Territorial authority not liable)	
+	392A	Territorial authority not liable	
+23	Section 401B amended (Order in Council declaring work to be restricted building work)	
+24	New Schedule 1A inserted	
+	
+Part 2
+Amendments to other legislation
+	
+	
+Subpart 1—Amendments to Acts
+	
+	
+Amendments to Local Government Act 2002
+	
+25	Principal Act	
+26	Section 5 amended (Interpretation)	
+27	Section 198 amended (Power to require contributions for developments)	
+28	Section 200 amended (Limitations applying to requirement for development contribution)	
+29	Section 202 amended (Contents of section 201 schedule)	
+30	Section 209 amended (Refund of money and return of land if development does not proceed)	
+31	Section 290 amended (Development contributions)	
+32	Schedule 1AA amended	
+	
+Amendments to Local Government Official Information and Meetings Act 1987
+	
+33	Principal Act	
+33A	Section 2 amended (Interpretation)	
+34	Section 44A amended (Land information memorandum)	
+34A	Section 44D amended (Territorial authority and regional council protected against certain actions when providing information in good faith)	
+	
+Amendments to Plumbers, Gasfitters, and Drainlayers Act 2006
+	
+35	Principal Act	
+36	Section 4 amended (Interpretation)	
+37	Section 15 amended (Exemption for householders)	
+38	Section 16 amended (Exemption for sanitary plumbing in areas in rural districts)	
+39	New section 27A and cross-heading inserted	
+		
+Each registered person and provisional licence holder to provide record of work in respect of prescribed sanitary plumbing or drainlaying
+	
+	27A	Each registered person and provisional licence holder to provide record of work in respect of prescribed sanitary plumbing or drainlaying	
+40	Section 89 amended (Disciplinary offence)	
+41	Section 172 amended (Regulations)	
+	
+Subpart 2—Amendments to secondary legislation
+	
+	
+Amendments to Building (Definition of Restricted Building Work) Order 2011
+	
+42	Principal order	
+43	Clause 5 amended (Certain building work relating to primary structure or external moisture-management systems of residential buildings to be restricted building work)	
+44	Clause 6 amended (Certain design work relating to primary structure or external moisture-management systems of residential buildings to be restricted building work)	
+	
+Amendment to Building (Infringement Offences, Fees, and Forms) Regulations 2007
+	
+45	Principal regulations	
+46	Schedule 1 amended	
+	
+Amendment to Building (Residential Consumer Rights and Remedies) Regulations 2014
+	
+47	Principal regulations	
+48	Regulation 6 amended (Prescribed content for residential building contracts for prescribed minimum price or more)	
+	
+Amendment to Building Regulations 1992
+	
+49	Principal regulations	
+50	Schedule 1 amended	
+	
+Amendments to Electricity (Safety) Regulations 2010
+	
+51	Principal regulations	
+51A	Regulation 4 amended (Interpretation)	
+52	Regulation 74E amended (What happens to certificates of compliance)	
+53	Regulation 74G amended (What happens to electrical supply safety certificates)	
+	
+Amendments to Gas (Safety and Measurement) Regulations 2010
+	
+54	Principal regulations	
+54A	Regulation 3 amended (Interpretation)	
+55	Regulation 52G amended (What happens to certificates of compliance)	
+56	Regulation 52I amended (What happens to gas safety certificates)	
+	
+Schedule 1
+New Schedule 1A inserted into Building Act 2004
+	
+	
+Schedule 2
+New Part 10 inserted into Schedule 1AA of Local Government Act 2002
+	
+	Legislative history	
+
+The Parliament of New Zealand enacts as follows:
+
+1
+Title
+
+This Act is the Building and Construction (Small Stand-alone Dwellings) Amendment Act 2025.
+
+2
+Commencement
+
+(1)
+
+This Act comes into force on a date set by Order in Council.
+
+(2)
+
+However, sections 4(2), 14(2), 23, 36, 39, 40, and 41 come into force on the day after Royal assent.
+
+(3)
+
+Any part of the Act that has not come into force 2 years after Royal assent comes into force then.
+
+(4)
+
+An Order in Council made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+Part 1
+Amendments to Building Act 2004
+3
+Principal Act
+
+This Act amends the Building Act 2004.
+
+4
+Section 7 amended (Interpretation)
+
+(1)
+
+In section 7(1), insert in their appropriate alphabetical order:
+
+final design plans, in relation to a completed small stand-alone dwelling, means the final drawings and specifications to which the small stand-alone dwelling was constructed
+
+non-consented small stand-alone dwelling means a small stand-alone dwelling that an owner builds, or intends to build, without obtaining a building consent
+
+preliminary design plans, in relation to a small stand-alone dwelling, means the preliminary design drawings (including a site plan, elevations, and basic sections) to which the dwelling is proposed to be constructed
+
+small stand-alone dwelling has the meaning set out in clause 1 of Schedule 1A
+
+(2)
+
+In section 7(1), definition of supervise, paragraph (b), after “building consent”, insert “(if any)”.
+
+5
+Section 12 amended (Role of building consent authority and territorial authority)
+
+(1)
+
+Replace section 12(2)﻿(b) with:
+
+(b)
+
+issues project information memoranda (including memoranda in relation to non-consented small stand-alone dwellings); and
+
+(2)
+
+After section 12(2)﻿(b), insert:
+
+(ba)
+
+issues documents under section 35A; and
+
+(bb)
+
+enforces the provisions of this Act related to non-consented small stand-alone dwellings; and
+
+6
+Section 32 amended (Owner may apply for project information memorandum)
+
+(1)
+
+Replace section 32(b) with:
+
+(b)
+
+either—
+
+(i)
+
+building consent is required for that work; or
+
+(ii)
+
+the building work is in connection with a non-consented small stand-alone dwelling.
+
+(2)
+
+In section 32, insert as subsection (2):
+
+(2)
+
+No building work may begin on the building of a non-consented small stand-alone dwelling before a project information memorandum for that dwelling in relation to its final site has been issued under section 34 by the relevant territorial authority.
+
+7
+Section 33 amended (Content of application)
+
+(1)
+
+In section 33(1), replace “prescribed form” with “appropriate prescribed form”.
+
+(2)
+
+After section 33(1), insert:
+
+(1A)
+
+In the case of a project information memorandum for building work in connection with a non-consented small stand-alone dwelling, the application must, in addition to complying with subsection (1), contain the following information:
+
+(a)
+
+a description of the proposed building work; and
+
+(b)
+
+initial preliminary design plans for the proposed building work.
+
+8
+Section 34 amended (Issue of project information memorandum)
+
+(1)
+
+Replace section 34(1) with:
+
+(1)
+
+A territorial authority must issue a project information memorandum—
+
+(a)
+
+within 10 working days after receiving an application in relation to a non-consented small stand-alone dwelling; or
+
+(b)
+
+in any other case, within 20 working days after receiving an application under section 31(1)﻿(a) or 32.
+
+(2)
+
+In section 34(2), replace “the period” with “the relevant period”.
+
+(3)
+
+In section 34(4), replace “the period” with “the relevant period”.
+
+(4)
+
+After section 34(4), insert:
+
+(5)
+
+If a project information memorandum is issued for building work in connection with a non-consented small stand-alone dwelling on a particular site (the final site), no further project information memorandum is required just because the place where the dwelling is constructed is in a different location from the dwelling’s final site (for example, a dwelling that is constructed in a factory and then transported to the final site).
+
+9
+New section 34A inserted (Lapse of project information memorandum for non-consented small stand-alone dwelling)
+
+After section 34, insert:
+
+34A
+Lapse of project information memorandum for non-consented small stand-alone dwelling
+
+A project information memorandum for building work in connection with a non-consented small stand-alone dwelling lapses and is of no effect if the building work to which it relates has not been completed within—
+
+(a)
+
+2 years after the date of issue of the project information memorandum; or
+
+(b)
+
+any further period that the territorial authority may allow.
+
+10
+Section 35 amended (Content of project information memorandum)
+
+(1)
+
+In section 35(1AA), replace “in the prescribed form (if any)” with “in the appropriate prescribed form for building work in connection with a non-consented small stand-alone dwelling, or in a different prescribed form, in the case of other proposed building work”.
+
+(2)
+
+In section 35(1)﻿(g), before “either”, insert “unless the memorandum relates to a non-consented small stand-alone dwelling,”.
+
+11
+New section 35A inserted (Additional information to be supplied in certain circumstances)
+
+After section 35, insert:
+
+35A
+Additional information to be supplied in certain circumstances
+
+(1)
+
+This section applies if a project information memorandum is issued by a territorial authority for building work in connection with a non-consented small stand-alone dwelling.
+
+(2)
+
+The memorandum must be accompanied by an attached document, in the prescribed form, containing—
+
+(a)
+
+a statement indicating whether—
+
+(i)
+
+the proposed building work is likely or unlikely to satisfy the characteristics of clause 1 of Schedule 1A; or
+
+(ii)
+
+it is unclear if the proposed building work is likely to satisfy those characteristics; and
+
+(b)
+
+a statement as to indicating whether the territorial authority considers that the construction of the dwelling—
+
+(i)
+
+is proposed to occur on land that is, or is likely to be, subject to 1 or more natural hazards (within the meaning of section 71(3)) or that it is unclear whether that is likely to be the case; or
+
+(ii)
+
+is likely to accelerate, worsen, or result in a natural hazard on that land or any other property, or that it is unclear whether that effect is likely to occur; and
+
+(c)
+
+if the territorial authority advises under paragraph (b) that there is or is likely to be a natural hazard present on the relevant land, a statement of whether the provisions of section 71(2) would apply if Schedule 1A did not apply; and or that the construction of the dwelling is likely to accelerate, worsen, or result in a natural hazard on the land or any other property,—
+
+(i)
+
+a statement as to whether section 71(2) would apply if Schedule 1A did not apply; and
+
+(ii)
+
+if a statement is made under subparagraph (i) that section 71(2) would not apply if Schedule 1A did not apply, a statement that a building consent may be required, or that the preliminary design plans may need to be amended to adequately protect the land, building work, or other property from the natural hazard; and
+
+(d)
+
+a description of any bylaws that may affect the design, construction, or location of the non-consented small stand-alone dwelling (for example, bylaws relating to wastewater or stormwater pipes).
+
+(3)
+
+The document may contain any other information concerning the land that the territorial authority considers, at its discretion, to be relevant (including relevant information in the district plan and regional plan).
+
+12
+Section 36 amended (Territorial authority may issue development contribution notice)
+
+After section 36(2), insert:
+
+(2A)
+
+Subsection (2) does not apply in the case of a project information memorandum for building work in connection with a non-consented small stand-alone dwelling, but if an application is made for a project information memorandum for building work in connection with a small stand-alone dwelling of that kind and the territorial authority considers that a development contribution under the Local Government Act 2002 is payable by the owner, the territorial authority must issue a development contribution notice—
+
+(a)
+
+in the prescribed form; and
+
+(b)
+
+stating that the development contribution is required to be paid by the owner within 20 working days after the completion of the building work (as described in section 42B(6)).
+
+13
+Section 37 amended (Territorial authority must issue certificate if resource consent required)
+
+After section 37(3), insert:
+
+(4)
+
+This section does not apply in respect of building work in connection with a non-consented small stand-alone dwelling.
+
+14
+Section 41 amended (Building consent not required in certain cases)
+
+(1)
+
+Replace section 41(1)﻿(b) with:
+
+(b)
+
+any building work described in Schedule 1 or Schedule 1A for which a building consent is not required (see sections 42A and 42B); or
+
+(2)
+
+After section 41(2)﻿(a), insert:
+
+(aa)
+
+removing any building work or class of building work from Schedule 1 as being building work for which a building consent is not required:
+
+(3)
+
+After section 41(2), insert:
+
+(2A)
+
+The Governor-General may, by Order in Council made on the recommendation of the Minister, amend Schedule 1A by adding to, removing, or amending any requirements for a small stand-alone dwelling or other provisions in clauses 2 and 3 of Schedule 1A.
+
+15
+New sections 42B and 42C inserted
+
+After section 42A, insert:
+
+42B
+Building work for which building consent is not required under Schedule 1A
+
+(1)
+
+Despite section 40, a building consent is not required for building work specified in Schedule 1A, subject to the conditions set out in subsection (3) and whether or not a building consent would otherwise have been required.
+
+(2)
+
+Despite subsection (1), an owner who wishes to obtain a building consent for the work described in clause 1 of Schedule 1A, which defines a small stand-alone dwelling, and the other work described in that schedule, may apply for a building consent for that work, and in that case this Act applies as if the work required a building consent.
+
+(3)
+
+The exemption created by subsection (1) is subject to the following conditions:
+
+(a)
+
+the building work complies with the building code to the extent required by this Act:
+
+(b)
+
+all building work (including all design work described in paragraph (b) of the definition of restricted building work in section 7(1)), sanitary plumbing, drainlaying, electrical work, or gasfitting is carried out in accordance with the requirements of this Act and, where applicable, the Plumbers, Gasfitters, and Drainlayers Act 2006, the Electricity Act 1992, or the Gas Act 1992, by a person who is authorised to do the work:
+
+(c)
+
+no building work on a non-consented small stand-alone dwelling may begin be carried out before a project information memorandum for that dwelling in relation to its final site has been issued under section 34 by the relevant territorial authority and building work may continue only until the project information memorandum expires or lapses:
+
+(d)
+
+the building work is carried out on land that is not subject to a natural hazard (as advised by the relevant territorial authority), or, where a natural hazard (within the meaning of section 71(3)) is present or is likely to be present on the relevant land or construction of the dwelling is likely to accelerate, worsen, or result in a natural hazard on the land or any other property, building work is not carried out unless adequate provision has been made to protect the land, building work, or other property from the natural hazard:
+
+(e)
+
+the small stand-alone dwelling is not constructed over a boundary on land that comprises or partly comprises 2 or more allotments of 1 or more existing subdivisions (whether comprised in the same record of title or not).
+
+(4)
+
+The owner of a non-consented small stand-alone dwelling must send to the territorial authority that issued the relevant project information memorandum, within 20 working days after completion of the building work (as defined in subsection (6)),—
+
+(a)
+
+the records of work and other documents described in subsection (6)﻿(a) to (d):
+
+(b)
+
+a set of final design plans for building, sanitary plumbing, and drainlaying work and the certificate of work required by section 45AA.
+
+(5)
+
+A person who contravenes subsection (4) commits an infringement offence and is liable to a fine not exceeding $1,000.
+
+(6)
+
+For the purposes of this Act, building work in connection with a non-consented small stand-alone dwelling is complete when the owner of the building has received from the relevant designers, builders, plumbers, drainlayers, electricians, and gasfitters the—
+
+(a)
+
+the records of work required under section 88 for restricted building work:
+
+(b)
+
+the records of work required under section 27A of the Plumbers, Gasfitters, and Drainlayers Act 2006 for prescribed sanitary plumbing and drainlaying work:
+
+(c)
+
+all certificates of compliance and electrical safety certificates required under the Electricity Act 1992 or the Electricity (Safety) Regulations 2010 for electrical work or any corresponding document under subsequent legislation that amends or replaces that Act or those regulations:
+
+(d)
+
+all certificates of compliance and gas safety certificates required under the Gas Act 1992 or the Gas (Safety and Measurement) Regulations 2010 for gasfitting work or any corresponding document under subsequent legislation that amends or replaces that Act or those regulations.
+
+(7)
+
+To avoid doubt, building work, sanitary plumbing, and drainlaying undertaken in connection with a non-consented small stand-alone dwelling must comply with applicable requirements under other legislation or documents under that legislation (for example, the New Zealand Electrical Code of Practice for Electrical Safe Distances (NZECP 34:2001)), unless the context otherwise requires.
+
+42C
+Purpose of section 42B(4)
+
+(1)
+
+The purpose of section 42B(4) is to ensure that the owner and future owners of a non-consented small stand-alone dwelling know who carried out the building work, sanitary plumbing, drainlaying, electrical, and gasfitting work, as applicable, and have access to information or knowledge about the ongoing maintenance requirements of the building.
+
+(2)
+
+Section 42B(4) does not require place a territorial authority under any duty or obligation to assess or inquire into any information supplied to it under that provision.
+
+16
+New section 45AA inserted (Certificate of work required for non-consented small stand-alone dwelling)
+
+After section 45, insert:
+
+45AA
+Certificate of work required for non-consented small stand-alone dwelling
+
+(1)
+
+This section applies if final design plans are submitted by a person under section 42B(4)﻿(b) in connection with the building work for a non-consented small stand-alone dwelling.
+
+(2)
+
+The final design plans containing design work for building work that is restricted building work must be accompanied by a certificate of work.
+
+(3)
+
+The certificate of work must—
+
+(a)
+
+be provided by 1 or more licensed building practitioners who carried out or supervised that design work; and
+
+(b)
+
+identify work described in paragraph (b) of the definition of restricted building work in section 7(1); and
+
+(c)
+
+state that the design work complies with the building code.
+
+(4)
+
+A certificate of work provided under section 42B(4)﻿(b) does not, of itself,—
+
+(a)
+
+create any liability in relation to any matter to which the certificate of work relates; or
+
+(b)
+
+give rise to any civil liability to the owner that would not otherwise exist if the licensed building practitioner were not required to provide the certificate of work.
+
+17
+Section 88 amended (Licensed building practitioner to provide record of work in respect of restricted building work)
+
+(1)
+
+After section 88(1), insert:
+
+(1A)
+
+Each licensed building practitioner who carries out or supervises restricted building work on a non-consented small stand-alone dwelling must, on completion of the restricted building work, provide the owner and the territorial authority that issued the project information memorandum for the dwelling under section 34 with a record of work, in the prescribed form (if applicable), stating what restricted building work the licensed building practitioner carried out or supervised.
+
+(2)
+
+In section 88(4), after “subsection (1)”, insert “or (1A)”.
+
+18
+Section 90D amended (Owner-builder exemption)
+
+After section 90D(1), insert:
+
+(1A)
+
+Subsection (1) does not apply to building work in connection with a non-consented small stand-alone dwelling.
+
+19
+Section 177 amended (Application for determination)
+
+In section 177(3), before paragraph (a), insert:
+
+(aaa)
+
+an extension under section 34A(b) of the period during which building work must be completed before the project information memorandum lapses:
+
+20
+Section 216 amended (Territorial authority must keep information about buildings)
+
+(1)
+
+In section 216(2)﻿(b)﻿(iva), replace “section 88(1)﻿(a)” with “section 88”.
+
+(2)
+
+After 216(2)﻿(b), insert:
+
+(ba)
+
+all information it has issued or received in relation to a non-consented small stand-alone building dwelling, (including— the information described in section 42B(6)﻿(a) to (d), all initial design plans, the set of final design plans for the building, plumbing, and drainlaying work, a certificate of work issued under section 45AA, and the project information memorandum issued in respect of the dwelling); and
+
+(i)
+
+the additional information it provides under section 35A; and
+
+(ii)
+
+the information described in section 42B(6)﻿(a) to (d); and
+
+(iii)
+
+all preliminary design plans; and
+
+(iv)
+
+the set of final design plans for the building, plumbing, and drainlaying work; and
+
+(v)
+
+any certificate of work provided under section 45AA; and
+
+(vi)
+
+the project information memorandum issued in respect of the building work to be carried out on the dwelling; and
+
+21
+Section 317 amended (Grounds for discipline of licensed building practitioners)
+
+After section 317(1)﻿(da), insert:
+
+(dab)
+
+a licensed building practitioner has failed, without good reason, in respect of restricted building work in connection with a non-consented small stand-alone dwelling that they have carried out or supervised (as the case may be), to provide the owner of the dwelling and the relevant territorial authority with a record of work, on completion of the restricted building work, in accordance with section 88(1A) and or a certificate of work issued under section 45AA relating to the final design plans for the building; or
+
+21A
+Section 362I amended (Implied warranties for building work in relation to household units)
+
+In section 362I(1)﻿(a)﻿(ii), after “set out in the contract”, insert “or, in the case of a non-consented small stand-alone dwelling, in accordance with the final design plans”.
+
+21B
+Section 362V amended (Offence for commercial on-seller to transfer household unit without code compliance certificate)
+
+After section 362V(6), insert:
+
+(7)
+
+This section does not apply to a non-consented small stand-alone dwelling.
+
+22
+New section 392A inserted (Territorial authority not liable)
+
+After section 392, insert:
+
+392A
+Territorial authority not liable
+
+No civil proceedings may be brought against a territorial authority or any member, employee, or agent of that authority for anything in good faith stated in, or omitted from, a statement or description required by section 35A.—
+
+(a)
+
+stated in, or omitted from, a statement or description required by or provided under section 35A; or
+
+(b)
+
+done or omitted to be done in relation to the information supplied to it under section 42B(4) or 88(1A).
+
+23
+Section 401B amended (Order in Council declaring work to be restricted building work)
+
+In section 401B(1), replace “(other than building work for which a building consent is not required)” with “(including building work for a non-consented small stand-alone dwelling but excluding other building work for which a building consent is not required)”.
+
+24
+New Schedule 1A inserted
+
+After Schedule 1, insert the Schedule 1A set out in Schedule 1 of this Act.
+
+Part 2
+Amendments to other legislation
+Subpart 1—Amendments to Acts
+Amendments to Local Government Act 2002
+25
+Principal Act
+
+Sections 26 to 32 amend the Local Government Act 2002.
+
+26
+Section 5 amended (Interpretation)
+
+In section 5(1), insert in its appropriate alphabetical order:
+
+non-consented small stand-alone dwelling has the same meaning as in section 7(1) of the Building Act 2004
+
+27
+Section 198 amended (Power to require contributions for developments)
+
+After section 198(1)﻿(b), insert:
+
+(ba)
+
+a project information memorandum is issued under the Building Act 2004 for building work in connection with a non-consented small stand-alone dwelling within its district:
+
+28
+Section 200 amended (Limitations applying to requirement for development contribution)
+
+In section 200(1)﻿(ba), after “certificate of acceptance”, insert “or for a project information memorandum for building work in connection with a non-consented small stand-alone dwelling situated within its district”.
+
+29
+Section 202 amended (Contents of section 201 schedule)
+
+Replace section 202(1)﻿(b) with:
+
+(b)
+
+the event that will give rise to a requirement for a development contribution under section 198, whether on—
+
+(i)
+
+granting a resource consent under the Resource Management Act 1991; or
+
+(ii)
+
+granting a building consent under the Building Act 2004; or
+
+(iii)
+
+granting an authorisation for a service connection; or
+
+(iv)
+
+issuing a project information memorandum for a non-consented small stand-alone dwelling.
+
+30
+Section 209 amended (Refund of money and return of land if development does not proceed)
+
+(1)
+
+After section 209(1), insert:
+
+(1A)
+
+A territorial authority must refund or return to the applicant for a project information memorandum for a non-consented small stand-alone dwelling, or to their personal representative, a development contribution paid or land set aside under this subpart if—
+
+(a)
+
+the project information memorandum lapses (see section 34A of the Building Act 2004); or
+
+(b)
+
+the development or building in respect of which the project information memorandum was granted does not proceed; or
+
+(c)
+
+the territorial authority does not provide the reserve, network infrastructure, or community infrastructure for which the development contribution was required.
+
+(2)
+
+In section 209(2), after “subsection (1)”, insert “or (1A),”.
+
+31
+Section 290 amended (Development contributions)
+
+(1)
+
+In section 290(a)﻿(iii), replace “and” with “or”.
+
+(2)
+
+After section 290(a), insert:
+
+(aa)
+
+the requirement is made in respect of the issuing, on and after the commencement of this paragraph, of a project information memorandum for a non-consented small stand-alone dwelling; and
+
+(3)
+
+In section 290(b), replace “or authorisation” with “authorisation, or issue of a project information memorandum”.
+
+32
+Schedule 1AA amended
+
+In Schedule 1AA,—
+
+(a)
+
+insert the Part set out in Schedule 2 of this Act as the last Part; and
+
+(b)
+
+make all necessary consequential amendments.
+
+Amendments to Local Government Official Information and Meetings Act 1987
+33
+Principal Act
+
+Section 34 Sections 33A to 34A amends the Local Government Official Information and Meetings Act 1987.
+
+33A
+Section 2 amended (Interpretation)
+
+In section 2(1), insert in its appropriate alphabetical order:
+
+non-consented small stand-alone dwelling has the same meaning as in section 7(1) of the Building Act 2004
+
+34
+Section 44A amended (Land information memorandum)
+
+After section 44A(2)﻿(d), insert:
+
+(daa)
+
+information relating to non-consented small stand-alone dwellings that comply with the requirements in section 42B of the Building Act 2004:
+
+34A
+Section 44D amended (Territorial authority and regional council protected against certain actions when providing information in good faith)
+
+In section 44D(a), after “section 44A(2)﻿(a)”, insert “or (daa)”.
+
+Amendments to Plumbers, Gasfitters, and Drainlayers Act 2006
+35
+Principal Act
+
+Sections 36 to 41 amend the Plumbers, Gasfitters, and Drainlayers Act 2006.
+
+36
+Section 4 amended (Interpretation)
+
+In section 4, insert in their appropriate alphabetical order:
+
+non-consented small stand-alone dwelling has the same meaning as in section 7(1) of the Building Act 2004
+
+prescribed sanitary plumbing or drainlaying means sanitary plumbing or drainlaying for which a registered person or a provisional licence holder must provide a record of work under section 27A
+
+small stand-alone dwelling has the same meaning as in section 7(1) of the Building Act 2004
+
+37
+Section 15 amended (Exemption for householders)
+
+After section 15(6), insert:
+
+(6A)
+
+However, subsection (1) does not apply in respect of any sanitary plumbing done in connection with a non-consented small stand-alone dwelling.
+
+38
+Section 16 amended (Exemption for sanitary plumbing in areas in rural districts)
+
+After section 16(4), insert:
+
+(4A)
+
+However, subsection (1) does not apply in respect of any sanitary plumbing done in connection with a non-consented small stand-alone dwelling.
+
+39
+New section 27A and cross-heading inserted
+
+After section 27, insert:
+
+Each registered person and provisional licence holder to provide record of work in respect of prescribed sanitary plumbing or drainlaying
+27A
+Each registered person and provisional licence holder to provide record of work in respect of prescribed sanitary plumbing or drainlaying
+
+(1)
+
+This section applies to each registered person and provisional licence holder who carries out or supervises prescribed sanitary plumbing or drainlaying.
+
+(2)
+
+The person must, on completion of the prescribed sanitary plumbing or drainlaying, provide the owner of the dwelling with a record of work, in the prescribed form (if any), stating what sanitary plumbing or drainlaying work the registered person or provisional licence holder carried out or supervised.
+
+(3)
+
+A record of work given under subsection (2) does not, of itself,—
+
+(a)
+
+create any liability in relation to any matter to which the record of work relates; or
+
+(b)
+
+give rise to any civil liability to the owner that would not otherwise exist if the registered person or provisional licence holder were not required to provide the record of work.
+
+40
+Section 89 amended (Disciplinary offence)
+
+After section 89(f), insert:
+
+(fa)
+
+to have failed to provide, without good reason, in respect of the prescribed sanitary plumbing or drainlaying that they have carried out or supervised, a record of work in the prescribed form (if any) on the completion of that work to the owner of the dwelling, in accordance with section 27A; or
+
+41
+Section 172 amended (Regulations)
+
+After section 172(1)﻿(g), insert:
+
+(ga)
+
+prescribing sanitary plumbing and drainlaying for which a registered person or holder of a provisional licence holder must provide a record of work under section 27A:
+
+(gb)
+
+prescribing 1 or more forms for a record of work under section 27A:
+
+Subpart 2—Amendments to secondary legislation
+Amendments to Building (Definition of Restricted Building Work) Order 2011
+42
+Principal order
+
+Sections 43 and 44 amend the Building (Definition of Restricted Building Work) Order 2011.
+
+43
+Clause 5 amended (Certain building work relating to primary structure or external moisture-management systems of residential buildings to be restricted building work)
+
+In clause 5(2)﻿(a)﻿(i) and (ii), after “house”, insert “(including a non-consented small stand-alone dwelling (within the meaning of section 7(1) of the Building Act 2004))”.
+
+44
+Clause 6 amended (Certain design work relating to primary structure or external moisture-management systems of residential buildings to be restricted building work)
+
+In clause 6(2)﻿(a) and (b), after “house”, insert “(including a non-consented small stand-alone dwelling (within the meaning of section 7(1) of the Building Act 2004))”.
+
+Amendment to Building (Infringement Offences, Fees, and Forms) Regulations 2007
+45
+Principal regulations
+
+Section 46 amends the Building (Infringement Offences, Fees, and Forms) Regulations 2007.
+
+46
+Schedule 1 amended
+
+In Schedule 1, after the item relating to section 42 of the Building Act 2004, insert:
+
+s 42B	Failure of owner to supply territorial authority with specified information		500
+Amendment to Building (Residential Consumer Rights and Remedies) Regulations 2014
+47
+Principal regulations
+
+Section 48 amends the Building (Residential Consumer Rights and Remedies) Regulations 2014.
+
+48
+Regulation 6 amended (Prescribed content for residential building contracts for prescribed minimum price or more)
+
+In regulation 6(2)﻿(e)﻿(iv), after “obtaining the building consents”, insert “(if any)”.
+
+Amendment to Building Regulations 1992
+49
+Principal regulations
+
+Section 50 amends the Building Regulations 1992.
+
+50
+Schedule 1 amended
+
+In Schedule 1, clause B2.3.1, second column, after the item relating to Performance B2.3.1, insert:
+
+However, in the case of a non-consented small stand-alone dwelling (within the meaning of section 7(1) of the Building Act 2004), B2.3.1 applies from the completion of the building work (within the meaning of section 42B(6) of that Act).
+
+Amendments to Electricity (Safety) Regulations 2010
+51
+Principal regulations
+
+Sections 52 and 51A to 53 amend the Electricity (Safety) Regulations 2010.
+
+51A
+Regulation 4 amended (Interpretation)
+
+In regulation 4(1), insert in its appropriate alphabetical order:
+
+non-consented small stand-alone dwelling has the same meaning as in section 7(1) of the Building Act 2004
+
+52
+Regulation 74E amended (What happens to certificates of compliance)
+
+After regulation 74E(2), insert:
+
+(2A)
+
+Despite subclause (2), where the work is carried out in connection with a non-consented small stand-alone dwelling, the responsible person must provide a copy of the certificate of compliance for prescribed electrical work to—
+
+(a)
+
+the person who contracted for the work, if that person is readily available; and
+
+(b)
+
+the owner of the dwelling in which the installation or part installation is located.
+
+53
+Regulation 74G amended (What happens to electrical supply safety certificates)
+
+Replace regulation 74G(1)﻿(a) with:
+
+(a)
+
+provide a copy of it, within 20 working days after it is issued,—
+
+(i)
+
+unless subparagraph (ii) applies, to the person who contracted for the prescribed electrical work or, if that person is not readily available, to the owner or occupier of the place or thing in which the installation or part installation is located:
+
+(ii)
+
+if the work was done in connection with a non-consented small stand-alone dwelling, to the person who contracted for the prescribed electrical work, if that person is readily available, and to the owner of the dwelling in which the installation or part installation is located; and
+
+Amendments to Gas (Safety and Measurement) Regulations 2010
+54
+Principal regulations
+
+Sections 54A to 55 and 56 amend the Gas (Safety and Measurement) Regulations 2010.
+
+54A
+Regulation 3 amended (Interpretation)
+
+In regulation 3(1), insert in its appropriate alphabetical order:
+
+non-consented small stand-alone dwelling has the same meaning as in section 7(1) of the Building Act 2004
+
+55
+Regulation 52G amended (What happens to certificates of compliance)
+
+After regulation 52G(2), insert:
+
+(2A)
+
+Despite subclause (2), where the work is carried out in connection with a non-consented small stand-alone dwelling, the responsible person must provide a copy of the certificate of compliance for gasfitting work to—
+
+(a)
+
+the person who contracted for the work, if that person is readily available; and
+
+(b)
+
+the owner of the dwelling in which the installation or part installation is located; and
+
+56
+Regulation 52I amended (What happens to gas safety certificates)
+
+Replace regulation 52I(1)﻿(a) with:
+
+(a)
+
+provide a copy of it, within 20 working days after it is issued,—
+
+(i)
+
+unless subparagraph (ii) applies, to the person who contracted for the gasfitting work or, if that person is not readily available, to the owner or occupier of the place or thing in which the gas installation or part installation is located:
+
+(ii)
+
+if the work was done in connection with a non-consented small stand-alone dwelling, to the person who contracted for the gasfitting work, if that person is readily available, and to the owner of the dwelling in which the gas installation or part installation is located; and
+
+Schedule 1
+New Schedule 1A inserted into Building Act 2004
+
+s 24
+
+Schedule 1A
+Other building work for which building consent not required
+
+ss 7, 35A, 41, 42B
+
+1
+Characteristics of small stand-alone dwelling
+
+This schedule applies to building work in connection with a small stand-alone dwelling. A small stand-alone dwelling is a building that has all of the following characteristics:
+
+(a)
+
+it is stand-alone:
+
+(b)
+
+it is new (that is, it is wholly new and not an addition or alteration to existing building work or an existing building):
+
+(c)
+
+it has a net floor area that is equal to or less than 70 square metres:
+
+(d)
+
+it has a single storey only.
+
+2
+Requirements for small stand-alone dwelling
+
+(1)
+
+A small stand-alone dwelling must be constructed in accordance with the following requirements:
+
+(a)
+
+it meets the requirements for a detached dwelling, as defined in clause A1 of the building code:
+
+(b)
+
+it has a maximum height of 4 metres above the floor:
+
+(c)
+
+it has a floor level of up to 1 metre above the supporting ground:
+
+(ca)
+
+it must not contain a mezzanine floor:
+
+(d)
+
+it has a frame made of lightweight building products (being steel or timber):
+
+(e)
+
+it is at least 2 metres away from any other residential building or any legal boundary:
+
+(f)
+
+it is built using lightweight building products for the roof that have a maximum weight of 20 kilograms per square metre:
+
+(g)
+
+its wall cladding has a maximum weight of 220 kilograms per square metre or less:
+
+(h)
+
+its water supply, sanitary plumbing, and drainage must—
+
+(i)
+
+be simple and designed and built in accordance with the following acceptable solutions or verification methods for compliance with clauses E1, G12, and G13 of the building code:
+
+(A)
+
+E1/AS1 or, E1/AS2, or E1/VM1 for its surface water system; and
+
+(B)
+
+G12/AS1 or G12/AS3 for its water supply system; and
+
+(C)
+
+both G13/AS1 and G13/AS2 or G13/AS3 for its foul water drainage system; and
+
+(ii)
+
+connect to network utility operator services systems (NUOs systems), if those services systems are available, or, if not available (within the meaning of clause 3), connect to on-site systems, that do not need a building consent to construct:
+
+(ha)
+
+an on-site system referred to in paragraph (h)﻿(ii) must be designed and built in accordance with—
+
+(i)
+
+any applicable acceptable solution specified in paragraph (h)﻿(i) of this clause of this schedule; or
+
+(ii)
+
+verification methods E1/VM1 and G13/VM4 (if applicable):
+
+(i)
+
+it must have an independent source of supply for electricity and, if gas is to be used in the dwelling, an independent source of supply for gas:
+
+(j)
+
+where heaters are installed, they must be either electric or gas heaters:
+
+(k)
+
+it does not have a level entry shower requiring a waterproof membrane.
+
+(1A)
+
+The following additional requirements apply to the water supply, sanitary plumbing, and drainage systems for a small stand-alone dwelling (but do not apply to on-site systems):
+
+(a)
+
+there must be no more than 30 fixture units, as defined by AS/NZS 3500.0.2021 and rated under clause 6.3 of AS/NZS 3500.2.2025:
+
+(b)
+
+there must be no pumped systems within the dwelling:
+
+(c)
+
+the main drain must be no less than DN100, at a grade of 1:60:
+
+(d)
+
+all branch drains must be no less than DN65, at a grade of 1:40:
+
+(e)
+
+upstream vents in connection with any branch or main drain must be no less than DN65:
+
+(f)
+
+there must be no uncontrolled water heating.
+
+(1B)
+
+For the purposes of subclause (1)﻿(h) and (ha),—
+
+(a)
+
+a connection to an NUO system or an on-site system does not require a building consent:
+
+(b)
+
+building work in connection with an on-site system does not require a building consent.
+
+(2)
+
+A small stand-alone dwelling can include a garage with internal access if the characteristics in subclause (1) and requirements in subclause (2) are met.
+
+3
+Interpretation
+
+In this schedule, unless the context otherwise requires,—
+
+AS/NZS 3500.0.2021 means AS/NZS 3500.0.2021 Australian/New Zealand Standard—Plumbing and Drainage—Part 0: Glossary of terms
+
+AS/NZS 3500.2.2025 means AS/NZS 3500.2.2025 Australian/New Zealand Standard—Plumbing and Drainage—Part 2: Sanitary Plumbing and Drainage
+
+branch drain has the same meaning as in AS/NZS 3500.0.2021
+
+E1/AS1 means Acceptable Solution E1/AS1 as set out in the Acceptable Solutions for New Zealand Building Code Clause E1 Surface Water, issued by the chief executive under section 22 and available on the Ministry’s Internet site, as in force on 2 November 2023
+
+E1/AS2 means Acceptable Solution E1/AS2 as set out in the Acceptable Solutions for New Zealand Building Code Clause E1 Surface Water, issued by the chief executive under section 22 and available on the Ministry’s Internet site, as in force on 2 November 2023
+
+E1/VM1 means Verification Method E1/VM1 as set out in the Verification Methods for New Zealand Building Code Clause E1 Surface Water, issued by the chief executive under section 22 and available on the Ministry’s Internet site, as in force on 2 November 2023
+
+floor area, in relation to a small stand-alone dwelling, means the overall internal dimensions measured between the finished internal faces of the external walls of the building
+
+G12/AS1 means Acceptable Solution G12/AS1 as set out in the Acceptable Solutions for New Zealand Building Code Clause G12 Water Supplies, issued by the chief executive under section 22 and available on the Ministry’s Internet site, as in force on 2 November 2024
+
+G12/AS3 means Acceptable Solution G12/AS3 as set out in the Acceptable Solutions for New Zealand Building Code Clause G12 Water Supplies, issued by the chief executive under section 22 and available on the Ministry’s Internet site, as in force on 2 November 2024
+
+G13/AS1 means Acceptable Solution G13/AS1 as set out in the Acceptable Solutions for New Zealand Building Code Clause G13 Foul Water, issued by the chief executive under section 22 and available on the Ministry’s Internet site, as in force on 2 November 2023
+
+G13/AS2 means Acceptable Solution G13/AS2 as set out in the Acceptable Solutions for New Zealand Building Code Clause G13 Foul Water, issued by the chief executive under section 22 and available on the Ministry’s Internet site, as in force on 2 November 2023
+
+G13/AS3 means Acceptable Solution G13/AS3 as set out in the Acceptable Solutions for New Zealand Building Code Clause G13 Foul Water, issued by the chief executive under section 22 and available on the Ministry’s Internet site, as in force on 2 November 2023
+
+G13/VM4 means Verification Method G13/VM4 as set out in the Verification Methods for New Zealand Building Code Clause G13 Foul Water, issued by the chief executive under section 22 and available on the Ministry’s Internet site, as in force on 2 November 2023
+
+main drain has the same meaning as in AS/NZS 3500.0.2021
+
+not available, in relation to an NUO system, means—
+
+(a)
+
+there is no NUO system sufficiently close to the relevant small stand-alone dwelling, to enable a connection to be made between that dwelling and an NUO system; or
+
+(b)
+
+there is an NUO system (as certified in the project information memorandum) that is sufficiently close to the relevant small stand-alone dwelling to enable a connection to be made between the dwelling and the NUO system, but the network utility operator informs the owner of the dwelling that the NUO system does not have sufficient capacity to allow a connection to be made
+
+on-site system means a system for the independent management of stormwater, wastewater, or water supply that does not connect to an NUO system
+
+upstream vent has the same meaning as in AS/NZS 3500.0.2021.
+
+Schedule 2
+New Part 10 inserted into Schedule 1AA of Local Government Act 2002
+
+s 32
+
+Part 10
+Provisions relating to Building and Construction (Small Stand-alone Dwellings) Amendment Act 2025
+59
+Territorial authorities may require development contributions for small stand-alone dwellings even where not authorised by policy
+
+(1)
+
+This clause applies during the period beginning with the commencement of this Part of Schedule 1AA and expiring 3 years after that date.
+
+(2)
+
+A territorial authority may require a development contribution to be paid in respect of a non-consented small stand-alone dwelling, even if this is not authorised by, or is contrary to, the relevant policies of the territorial authority.
+
+(3)
+
+Subpart 5 of Part 8 applies, subject to this clause and with any necessary modifications.
+
+Legislative history
+
+22 May 2025
+
+		
+
+Introduction (Bill 166–1), first reading and referral to Transport and Infrastructure Committee

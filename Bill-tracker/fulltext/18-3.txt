@@ -1,0 +1,597 @@
+« Back to browse results
+Companies (Address Information) Amendment Bill
+Search within this Bill 
+By clauses
+View whole (87KB)
+Versions and APs
+Add to web feed
+Order a commercial print
+Print/Download PDF [162KB]
+Contents
+Previous clause
+Next clause
+Tag clause
+Remove
+Previous hit
+Next hit
+Companies (Address Information) Amendment Bill
+
+Member’s Bill
+
+18—2
+
+As reported from the Economic Development, Science and Innovation Committee
+
+Commentary
+Recommendation
+
+The Economic Development, Science and Innovation Committee has examined the Companies (Address Information) Amendment Bill and recommends by majority that it be passed. We recommend all amendments unanimously.
+
+Introduction
+
+The Companies Act 1993 requires residential addresses of company directors to be made available to the public. The residential addresses of company directors are therefore easy to access on the Companies Register website. As a result, some company directors may be exposed to stalking, harassment, or other acts of violence.
+
+As introduced, this bill would amend the Companies Act to enable directors who have serious concerns for their personal safety, or that of a person they live with, to request that their residential address be substituted with an “address for service”. It is a Member’s bill in the name of Hon Dr Deborah Russell.
+
+We note that the Minister of Commerce and Consumer Affairs has indicated that he intends to introduce a bill to the House amending the Companies Act and that some of his proposals would address these issues.
+
+Legislative scrutiny
+
+As part of our consideration of the bill, we have examined its consistency with principles of legislative quality. We are satisfied that the issues we raised have been appropriately addressed by officials and are reflected in our proposed amendments.
+
+Proposed amendments
+
+As set out below, we propose several amendments to the bill and substantial additions to its provisions. This commentary covers the main amendments we recommend to the bill as introduced. We do not discuss minor or technical amendments.
+
+Meeting the bill’s policy intent
+Documents available on the register
+
+Clause 5 of the bill would insert section 360D in the Act. As introduced, this new section would require the Registrar to “update the director’s residential address information and, if applicable, the New Zealand register, so that the director’s residential address is replaced with the address for service specified in the application”. However, the bill is silent on what would be done with documents relating to companies, such as consent forms and annual returns. These documents are often available on the online register and contain address information.
+
+We consider that, for the bill to achieve its intended purpose, documents should be covered by its provisions. We therefore recommend amending new section 360D(2). The Registrar would need to “take reasonable steps to prevent public access from the New Zealand register to the residential address”. This would include redacting information from a document that is publicly available from the register.
+
+Our amendment would make it clear that the Registrar’s responsibility would be to remove public availability of a director’s residential address, not just to replace it with an alternative address. It would also make clear that the Registrar’s responsibility to remove public availability of a director’s residential address would extend to future instances where a director’s residential address is provided in documents such as annual returns.
+
+Provision of residential address information
+
+New section 360D(1), to be inserted by clause 5, would apply if “a company has provided residential address information about a director to the Registrar”. However, it is not always a company that provides this information. When applying to register a company, applicants are required to provide the residential addresses of each director, at which point the prospective company does not yet exist. Further, it is usually the board of a company that provides information to the Registrar. We consider that it would be simpler to remove mention of the provider of residential address information.
+
+We therefore recommend amending proposed new section 360D(1) to provide that this section would apply if “residential address information about a director has been provided to the Registrar”.
+
+Directors who are also shareholders of a company
+
+We realise that even if a director’s residential address was removed from the Companies Register under the provisions of this bill, it may still be available if they are also a shareholder of the company. Most registered companies are small and medium-sized enterprises, and it is common for directors to own shares in the company. We note that it is not difficult to access the residential address of a shareholder through the register.
+
+To help the bill achieve its intended purpose, we think it should cover shareholders if they are also a director of the same company. We therefore recommend amending clause 5 to insert section 360F into the Act. Proposed section 360F would require the Registrar to take reasonable steps to prevent public access to the residential address of a director in their capacity as a shareholder of the company. This would include a requirement to redact information from a document that is publicly available from the register (as we propose in new section 360D(2) with respect to directors).
+
+Shareholder living with a director
+
+We determined that even if a director’s address was removed from the register in accordance with the provisions of the bill, it could still be ascertained if a shareholder of the same company lived at the same address. We note that such a situation would go against the policy purpose of the bill.
+
+Accordingly, we recommend including subsection (1)﻿(b) in our proposed section 360F. This would cover situations where a director resides with a shareholder of the company who consents to having their residential address removed from the register. Proposed subsection (3) would provide that, if the director’s alternative address is changed, the Registrar must change the shareholder’s alternative address to match that of the director.
+
+Replacing “address for service” with “alternative address”
+
+The Companies Act provides a definition for an “address for service”, and section 192 of the Act sets out criteria that an address for service must meet. The bill as introduced also uses the term “address for service” as a possible replacement for a director’s residential address. However, we think this could create confusion as the situation covered by the bill differs from the Act’s definition of an “address for service”. We therefore propose amending the bill to provide that a director’s residential address may be replaced by an “alternative address” instead of an “address for service”. To do this, we recommend adding clause 3A, which would insert a definition of “alternative address” into the interpretation section of the Act.
+
+We recommend various consequential amendments to the bill to refer to an “alternative address”. In particular, we recommend inserting section 360E. This would provide the same requirements for a director’s alternative address as those stated in section 192 of the Companies Act in respect of an address for service.
+
+Section 159 of the Act requires the board of a company to give notice to the Registrar of a change in the residential address of a director. We recommend amending section 159 to provide that a company must also inform the Registrar of a change in a director’s alternative address. Similarly, we recommend amending section 189 of the Act, which determines the contents of company records, to include a mention of any alternative addresses.
+
+One alternative address only for a director or shareholder
+
+We are aware that the removal of addresses from public availability could affect corporate transparency. We recommend amending the bill to allow a director or shareholder to have only 1 alternative address. This would guard against any misuse of the bill’s provisions by which a director could use multiple addresses to conceal their identity.
+
+We therefore recommend adding subsection (4) to our proposed section 360E to provide that a person may only have 1 alternative address at any time. We also recommend amending new section 360D(3)﻿(c) to provide that an application made by a director must specify 1 alternative address.
+
+Removal of alternative address from the register
+
+The bill as introduced does not provide for the removal of an alternative address from the register. We recommend inserting section 360G to provide for the Registrar to remove alternative addresses in the following specified circumstances:
+
+The director notifies the Registrar that they no longer wish to have an alternative address in relation to the company.
+
+The director ceases to be a director of the company.1
+
+The shareholder notifies the Registrar that they are withdrawing their consent to have their residential address removed from the register.
+
+The Registrar becomes aware that the director and the shareholder no longer reside together.
+
+In such circumstances, the Registrar would be required to ensure that the residential address is publicly available from the New Zealand register. It would also enable the Registrar to make any other relevant alterations to the register that they think fit.
+
+Serving legal documents
+
+Sections 387A and 388A of the Companies Act set out how legal and other documents may be served on directors. The bill as introduced would limit the number of available options to serve a director who has applied to have their address replaced, because they would no longer have a residential address on the Companies Register. We acknowledge that there would still be other ways in which legal and other documents could be served on directors. However, we consider that a director’s alternative address should be included as an option for serving documents on a director.
+
+We recommend inserting clauses 6 and 7 into the bill amending sections 387A and 388A of the Act to include a director’s alternative address as an option for serving legal and other documents on a director.
+
+Removing the requirement for an application to be made by the director personally
+
+As introduced, new section 360D(3)﻿(a) inserted by clause 5 would require a director to apply personally for their residential address to be removed from the register. This application would need to include a statutory declaration made by the director verifying that the public availability of their residential address poses a threat to them or a person living with them.
+
+We consider that a statutory declaration would constitute robust evidence of a director’s involvement in an application, so it is unnecessary to require the application to be filed personally. To allow other people, such as a lawyer or accountant, to make the application on behalf of a director, we recommend removing the term “personally” from new section 360D(3)﻿(a).
+
+Covering prospective directors
+
+As introduced, the bill would not cover prospective directors who may wish to keep their residential address private for safety concerns. We consider that prospective directors should be covered by the bill’s provisions so that they could have their addresses kept out of the register from the outset. We recommend including section 360D(6) to cover this situation for a prospective director or prospective shareholder, or a proposed company.
+
+Prescribing a fee
+
+The bill as introduced would require an application made by a director to have their residential address removed from the register to be accompanied by the prescribed fee. In the Companies Act, provisions prescribing a fee include the term “(if any)” to avoid making the prescription of a fee a requirement. For consistency, we recommend adding “(if any)” after “be accompanied by the prescribed fee” in new section 360D(3)﻿(d).
+
+Prescribed form of application
+
+As introduced, an application made by a director would need to include a statutory declaration in the “prescribed form”. We consider that it would be more appropriate to require an application as a whole to be made in the prescribed form. Our proposed amendment would provide a consistent approach with other provisions in the Act. We therefore recommend amending proposed section 360D(3) accordingly.
+
+Commencement date
+
+Clause 2 provides that the bill would come into force 3 months after Royal assent. We were advised that this would be insufficient time to complete public consultation on changes to associated regulations, to make these changes, and to operationalise them in the Companies Office. Since directors number more than 650,000, there is potential for a large number of applicants if the bill is enacted.
+
+We therefore recommend amending the bill so it would come into force by Order in Council. As a backstop, we recommend that the bill come into force 1 year after receiving Royal assent, if it has not come into force earlier by Order in Council.
+
+Not limiting other requirements or the Official Information Act
+
+We consider that the bill should not limit other provisions in the Act requiring directors and shareholders to provide their residential address to the Registrar, or the Official Information Act 1982. We recommend inserting section 360D(5) and 360F(4) to state this explicitly.
+
+New Zealand First differing view
+
+New Zealand First will not support the bill as it is our view that there is a more comprehensive approach required. 
+
+Appendix
+Committee process
+
+The Companies (Address Information) Amendment Bill was referred to the committee on 20 March 2024. We invited the Member in charge, Hon Dr Deborah Russell, to provide an initial briefing on the bill on 2 May 2024.
+
+We called for submissions on the bill with a closing date of 2 May 2024. We received and considered submissions from 62 interested groups and individuals. We heard oral evidence from 14 submitters.
+
+Advice on the bill was provided by the Ministry of Business, Innovation and Employment. The Office of the Clerk provided advice on the bill’s legislative quality. The Parliamentary Counsel Office assisted with legal drafting.
+
+Committee membership
+
+Dr Parmjeet Parmar (Chairperson)
+
+Dan Bidois
+
+Reuben Davidson
+
+Hon Willie Jackson
+
+Tanya Unkovich
+
+Dr Vanessa Weenink
+
+Scott Willis
+
+Helen White
+
+Hon Dr Deborah Russell participated in our consideration.
+
+Related resources
+
+The documents received as advice and evidence are available on the Parliament website.
+
+Key to symbols used
+
+text inserted
+
+text deleted
+
+Hover your cursor over an amendment for information about that amendment. Download the PDF version to see this information in a form that can be printed out.
+
+Hon Dr Deborah Russell
+
+Companies (Address Information) Amendment Bill
+
+Member’s Bill
+
+18—2
+
+Contents
+	Commentary	
+	Key	
+1	Title	
+2	Commencement	
+3	Principal Act	
+3A	Section 2 amended (Interpretation)	
+3B	Section 159 amended (Notice of change of directors)	
+3C	Section 189 amended (Company records)	
+4	Section 215 amended (Public inspection of company records)	
+4A	Section 328 amended (Registrar may restore company to New Zealand register)	
+5	New section 360D sections 360D to 360G inserted (Alteration of entries on New Zealand register on application for safety reason)	
+	360D	Alteration of entries on New Zealand register on application for safety reason	
+	360E	Requirements for alternative address	
+	360F	Director who is also shareholder or who resides with shareholder	
+	360G	Removal of alternative address from register	
+6	Section 387A amended (Service of documents on directors in legal proceedings)	
+7	Section 388A amended (Service of other documents on directors)	
+8	Section 391 amended (Service of documents on shareholders and creditors)	
+	Legislative history	
+
+The Parliament of New Zealand enacts as follows:
+
+1
+Title
+
+This Act is the Companies (Address Information) Amendment Act 2024.
+
+2
+Commencement
+
+This Act comes into force on the day that is 3 months after the date on which it receives the Royal assent.
+
+(1)
+
+This Act comes into force on a single date set by Order in Council.
+
+(2)
+
+If the Act has not come into force by the first anniversary of Royal assent, it comes into force then.
+
+(3)
+
+An Order in Council made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+
+3
+Principal Act
+
+This Act amends the Companies Act 1993.
+
+3A
+Section 2 amended (Interpretation)
+
+(1)
+
+In section 2(1), insert in its appropriate alphabetical order:
+
+alternative address, in relation to a person, means—
+
+(a)
+
+the address given for the person in an application under section 360D(3)﻿(c); or
+
+(b)
+
+a new alternative address given in a notice under section 159(1)
+
+(2)
+
+After section 2(5), insert:
+
+(5A)
+
+Subsection (5) does not affect section 215(1A) or (1B), or sections 360D to 360G, and the definition in that subsection does not apply to an alternative address.
+
+3B
+Section 159 amended (Notice of change of directors)
+
+(1)
+
+In section 159(1)﻿(b), replace “name or the residential address” with “name, the residential address, or the alternative address”.
+
+(2)
+
+In section 159(2)﻿(d)﻿(ii), replace “name or residential address” with “name, the residential address, or the alternative address”.
+
+3C
+Section 189 amended (Company records)
+
+In section 189(1)﻿(f), after “addresses”, insert “(including any alternative addresses)”.
+
+4
+Section 215 amended (Public inspection of company records)
+
+After section 215(1), insert:
+
+(1A)
+
+If section 360D applies, a company may replace a director’s residential address with an address for service provided by the director under that section their alternative address on the company’s records that are available for inspection under subsection (1).
+
+(1B)
+
+If section 360F applies, a company may replace a shareholder’s address, as it appears in the share register that is available for inspection under subsection (1), with their alternative address.
+
+4A
+Section 328 amended (Registrar may restore company to New Zealand register)
+
+(1)
+
+In section 328(3)﻿(a)﻿(ii), after “address”, insert “(or alternative address)”.
+
+(2)
+
+In section 328(3)﻿(b)﻿(ii), after “address”, insert “(or alternative address)”.
+
+5
+New section 360D sections 360D to 360G inserted (Alteration of entries on New Zealand register on application for safety reason)
+
+After section 360C, insert:
+
+360D
+Alteration of entries on New Zealand register on application for safety reason
+
+(1)
+
+This section applies if—
+
+(a)
+
+a company has provided residential address information about a director has been provided to the Registrar in accordance with of this Act or regulations made under it (regardless of whether the information was provided before or after the commencement of this section or is visible to the public on the New Zealand register); and
+
+(b)
+
+the Registrar receives an application from that director that complies with the requirements specified in subsection (3).
+
+(2)
+
+The Registrar must update the director’s residential address information and, if applicable, the New Zealand register, so that the director’s residential address is replaced with the address for service specified in the application.
+
+(2)
+
+The Registrar must—
+
+(a)
+
+take reasonable steps to prevent public access from the New Zealand register to the residential address (including by redacting information from a document that is publicly available from the New Zealand register); and
+
+(b)
+
+ensure the alternative address is publicly available from the New Zealand register.
+
+(3)
+
+The application must —
+
+(a)
+
+be made by the director personally in the prescribed form; and
+
+(b)
+
+include a statutory declaration, in the prescribed form, made by the director verifying that public availability of the director’s residential address information is likely to result in physical or mental harm to—
+
+(i)
+
+the director; or
+
+(ii)
+
+a person with whom the director resides; and
+
+(c)
+
+specify an 1 alternative address for service to replace their residential address, which must not be the company’s registered office or address for service; and that complies with section 360E for—
+
+(i)
+
+the director; and
+
+(ii)
+
+if section 360F(1)﻿(b) applies, the shareholder referred to in that paragraph; and
+
+(d)
+
+be accompanied by the prescribed fee (if any).
+
+(4)
+
+An application under this section may relate to more than one 1 company.
+
+(5)
+
+This section does not limit—
+
+(a)
+
+any requirement to provide residential address information about a director to the Registrar in accordance with this Act or regulations made under it; or
+
+(b)
+
+the Official Information Act 1982.
+
+(6)
+
+In this section and sections 360E to 360G,—
+
+company includes a proposed company
+
+director includes a prospective director
+
+shareholder includes a prospective shareholder.
+
+360E
+Requirements for alternative address
+
+(1)
+
+The alternative address of a director or shareholder of a company must not be—
+
+(a)
+
+the company’s registered office or address for service; or
+
+(b)
+
+a postal centre or document exchange.
+
+(2)
+
+If the alternative address is at the offices of any firm of accountants, barristers and solicitors, or any other person, the alternative address must state—
+
+(a)
+
+that the address is at the offices of that firm or person; and
+
+(b)
+
+particulars of the location in any building of those offices.
+
+(3)
+
+If subsection (2) does not apply, but the alternative address is located in a building containing a number of premises, the alternative address must state particulars of its location in the building.
+
+(4)
+
+A person may only have 1 alternative address at any time.
+
+360F
+Director who is also shareholder or who resides with shareholder
+
+(1)
+
+This section applies if section 360D applies to a director in relation to a company and either or both of the following apply:
+
+(a)
+
+the director is also a shareholder of the company:
+
+(b)
+
+the director resides with a shareholder of the company who, in the application under section 360D, consents to the Registrar complying with subsection (2) in relation to them.
+
+(2)
+
+The Registrar must—
+
+(a)
+
+take reasonable steps to prevent public access to the residential address of a person referred to in subsection (1)﻿(a) or (b) in their capacity as a shareholder of the company from the New Zealand register (including by redacting information from a document that is publicly available from the New Zealand register); and
+
+(b)
+
+ensure the alternative address is publicly available from the New Zealand register for the person in their capacity as a shareholder of the company.
+
+(3)
+
+If the director’s alternative address is changed, the Registrar must change the shareholder’s alternative address to match that of the director.
+
+(4)
+
+Section 360D(5) applies with any necessary modifications.
+
+360G
+Removal of alternative address from register
+
+(1)
+
+Subsection (2) applies if—
+
+(a)
+
+the Registrar has taken the steps described in section 360D(2) in relation to the director of a company; and
+
+(b)
+
+either of the following events occur:
+
+(i)
+
+the director notifies the Registrar that they no longer wish to have an alternative address in relation to the company:
+
+(ii)
+
+the director ceases to be a director of the company.
+
+(2)
+
+If this subsection applies,—
+
+(a)
+
+section 360D(2) no longer applies; and
+
+(b)
+
+the Registrar must, as soon as practicable, ensure the residential address is publicly available from the New Zealand register; and
+
+(c)
+
+the Registrar may make any other relevant alterations to the New Zealand register that they think fit.
+
+(3)
+
+Subsection (4) applies if—
+
+(a)
+
+the Registrar has, after receiving an application from a director under section 360D, taken the steps described in section 360F(2) in relation to a shareholder of the company; and
+
+(b)
+
+any of the following events occur:
+
+(i)
+
+the director notifies the Registrar that they no longer wish to have an alternative address in relation to the company:
+
+(ii)
+
+the director ceases to be a director of the company:
+
+(iii)
+
+the shareholder notifies the Registrar that they are withdrawing their consent given under section 360F(1)﻿(b):
+
+(iv)
+
+the Registrar becomes aware that the director and the shareholder no longer reside together.
+
+(4)
+
+If this subsection applies,—
+
+(a)
+
+section 360F(2) no longer applies; and
+
+(b)
+
+the Registrar must, as soon as practicable, ensure the residential address is publicly available from the New Zealand register; and
+
+(c)
+
+the Registrar may make any other relevant alterations to the New Zealand register that they think fit.
+
+6
+Section 387A amended (Service of documents on directors in legal proceedings)
+
+After section 387A(1)﻿(b), insert:
+
+(ba)
+
+by leaving it at the director’s alternative address (as that address is shown in the register); or
+
+7
+Section 388A amended (Service of other documents on directors)
+
+(1)
+
+In section 388A(a), after “(b),”, insert “(ba),”.
+
+(2)
+
+In section 388A(b), after “residential address”, insert “or alternative address”.
+
+8
+Section 391 amended (Service of documents on shareholders and creditors)
+
+In section 391(1)﻿(b), after “address”, insert “(or alternative address)”.
+
+Legislative history
+
+15 February 2024
+
+		
+
+Introduction (Bill 18–1)
+
+
+
+
+20 March 2024
+
+		
+
+First reading and referral to Economic Development, Science and Innovation Committee
+
+1
+The first two situations would also trigger the removal of any shareholder’s alternative address tied to a director who resides with them under proposed section 360F(1)﻿(b).

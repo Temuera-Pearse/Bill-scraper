@@ -1,0 +1,17 @@
+{
+  "name": "bill-scraper",
+  "version": "1.0.0",
+  "description": "Node.js script to log in, scrape invoices, download PDFs, extract text, and write CSV.",
+  "main": "scrape-bills.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node scrape-bills.js"
+  },
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "dotenv": "^16.4.5",
+    "node-fetch": "^2.7.0",
+    "pdf-parse": "^1.1.1",
+    "puppeteer": "^21.9.0"
+  }
+}
