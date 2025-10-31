@@ -66,30 +66,10 @@ process.on('uncaughtException', (err) => {
     const seen = new Set()
 
     let pageIndex = 1
-    let prevFirstHref = '' // <-- define before the loop
 
     outer: while (true) {
       const listUrl = page.url() // <-- define listUrl for logging
       log.info(`\n--- Page ${pageIndex} (${listUrl}) ---`)
-
-      // Marker for this page's first bill href
-      const firstHref = await page.evaluate(() => {
-        const a = Array.from(document.querySelectorAll('a[href]'))
-          .map((a) => a.getAttribute('href') || a.href || '')
-          .find((h) => /\/v\/\d+\/[a-z0-9-]+/i.test(h))
-        return a || ''
-      })
-
-      // If the marker didn’t change since last loop, assume end of pagination
-      if (firstHref && firstHref === prevFirstHref) {
-        log.warn(
-          'List content marker did not change; possible end of pagination. Stopping.'
-        )
-        break
-      }
-
-      // Record the current marker so the next loop can compare
-      prevFirstHref = firstHref
 
       // Optional: expand lazy lists on the current page
       // await autoLoadAll(page)
@@ -190,17 +170,20 @@ process.on('uncaughtException', (err) => {
       }
 
       // 2) Fallback: click the <button data-test-ref="btn-next-page">Next</button>
-      log.info('No Next URL found. Trying button-based Next…')
-      const didClick = await clickNextPage(page)
+
+      log.info(
+        `No Next URL found. Trying button-based Next… (current URL: ${page.url()})`
+      )
+      const didClick = await clickNextPage(page, { debug: true, waitMs: 20000 })
       if (!didClick) {
         log.info('No Next page found (or disabled). Pagination complete.')
         break
       }
 
       // Re-sync readiness in case the SPA updated inline (URL may not change)
-      await sleep(300)
-
-      await gotoWithRetry(page, page.url(), { mode: 'list' })
+      // Do not reload; let the SPA-appended content persist
+      await sleep(600)
+      await autoLoadAll(page)
       pageIndex++
     }
 

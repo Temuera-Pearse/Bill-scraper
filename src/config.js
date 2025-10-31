@@ -2,7 +2,7 @@ require('dotenv').config()
 const path = require('path')
 
 const {
-  BILL_SITE_INVOICES_URL = 'https://bills.parliament.nz/bills-proposed-laws?Tab=All',
+  BILL_SITE_INVOICES_URL = 'https://bills.parliament.nz/bills-proposed-laws',
   DOWNLOAD_DIR = './Bill-tracker/pdfs',
   HEADLESS = 'true',
   MAX_BILLS,

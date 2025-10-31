@@ -10,7 +10,7 @@ async function gotoWithRetry(page, url, opts = {}, tries = 3) {
         waitUntil: ['domcontentloaded', 'networkidle2'],
         timeout: 60000,
       })
-      await page.waitForTimeout(1200)
+      await new Promise((r) => setTimeout(r, 1200))
 
       await page.waitForSelector('main, #main, #app, [role="main"], article', {
         timeout: 60000,
@@ -33,7 +33,7 @@ async function gotoWithRetry(page, url, opts = {}, tries = 3) {
         )
       }
 
-      await page.waitForTimeout(400)
+      await new Promise((r) => setTimeout(r, 400))
       return
     } catch (err) {
       lastErr = err
