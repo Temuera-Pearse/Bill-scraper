@@ -1,4 +1,6 @@
 const { createObjectCsvWriter } = require('csv-writer')
+const fs = require('fs')
+const path = require('path')
 
 async function writeBillsCsv(csvPath, records) {
   const csvWriter = createObjectCsvWriter({
@@ -21,4 +23,24 @@ async function writeBillsCsv(csvPath, records) {
   await csvWriter.writeRecords(records)
 }
 
-module.exports = { writeBillsCsv }
+async function writeBillsJson(jsonPath, records) {
+  const structured = records.map((r) => ({
+    billNumber: r.billNo,
+    title: r.title,
+    parliamentNumber: r.parliament,
+    memberInCharge: r.mpInCharge,
+    committee: r.committee,
+    billUrls: {
+      parliament: r.billUrl,
+      legislationVersions: r.readBillUrl,
+      whole: r.viewWholeUrl,
+    },
+    filePath: r.fullTextPath,
+    summarySnippet: r.summarySnippet,
+  }))
+
+  fs.writeFileSync(jsonPath, JSON.stringify(structured, null, 2))
+  console.log(`✅ Written ${structured.length} bills to ${jsonPath}`)
+}
+
+module.exports = { writeBillsCsv, writeBillsJson }

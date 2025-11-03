@@ -4,7 +4,7 @@ const log = require('./logger')
 const {
   BILL_SITE_INVOICES_URL,
   DOWNLOAD_DIR,
-  CSV_PATH,
+  JSON_PATH,
   FULLTEXT_DIR,
   MAX_BILLS,
   MAX_PAGES,
@@ -23,7 +23,7 @@ const {
 } = require('./pages/list')
 const { scrapeBillDetail } = require('./pages/billDetail')
 const { openViewWholeAndGetText } = require('./pages/legislation')
-const { writeBillsCsv } = require('./output/csv')
+const { writeBillsCsv, writeBillsJson } = require('./output/csv')
 
 // ---- Global error guards ----
 process.on('unhandledRejection', (err) => {
@@ -37,7 +37,7 @@ process.on('uncaughtException', (err) => {
 ;(async () => {
   log.info('NZ Parliament Bill Scraper starting…')
   await ensureDir(DOWNLOAD_DIR)
-  await ensureDir(path.dirname(CSV_PATH))
+  await ensureDir(path.dirname(JSON_PATH))
   await ensureDir(FULLTEXT_DIR)
 
   const browser = await launchBrowser()
@@ -187,9 +187,10 @@ process.on('uncaughtException', (err) => {
       pageIndex++
     }
 
-    log.info(`Writing CSV to ${CSV_PATH}…`)
-    await writeBillsCsv(CSV_PATH, results)
-    log.info('CSV saved at:', CSV_PATH)
+    log.info(`Writing CSV to ${JSON_PATH}…`)
+    // await writeBillsCsv(JSON_PATH, results)
+    await writeBillsJson(JSON_PATH, results)
+    log.info('CSV saved at:', JSON_PATH)
     log.info(`Success. Scraped ${scrapedCount} bills.`)
   } catch (err) {
     log.error('Fatal error:', err)

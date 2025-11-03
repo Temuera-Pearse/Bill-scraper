@@ -17,7 +17,7 @@ module.exports = {
   BILL_SITE_INVOICES_URL,
   MAX_PAGES,
   DOWNLOAD_DIR: path.resolve(ROOT_DIR, DOWNLOAD_DIR),
-  CSV_PATH: path.resolve(ROOT_DIR, './Bill-tracker/bills.csv'),
+  JSON_PATH: path.resolve(ROOT_DIR, './Bill-tracker/bills.json'),
   FULLTEXT_DIR: path.resolve(ROOT_DIR, './Bill-tracker/fulltext'),
   ROOT_DIR,
   HEADLESS,
