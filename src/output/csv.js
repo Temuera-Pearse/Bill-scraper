@@ -15,7 +15,7 @@ async function writeBillsCsv(csvPath, records) {
       { id: 'readBillUrl', title: 'readBillUrl' },
       { id: 'viewWholeUrl', title: 'viewWholeUrl' },
       { id: 'fullTextPath', title: 'fullTextPath' },
-      { id: 'summarySnippet', title: 'summarySnippet' },
+      { id: 'fullText', title: 'fullText' },
       { id: 'error', title: 'error' },
     ],
     alwaysQuote: true,
@@ -32,15 +32,10 @@ async function writeBillsJson(jsonPath, records) {
     committee: r.committee,
     billUrls: {
       parliament: r.billUrl,
-      legislationVersions: r.readBillUrl,
-      whole: r.viewWholeUrl,
     },
-    filePath: r.fullTextPath,
-    summarySnippet: r.summarySnippet,
+    fullText: r.fullText,
   }))
-
-  fs.writeFileSync(jsonPath, JSON.stringify(structured, null, 2))
-  console.log(`✅ Written ${structured.length} bills to ${jsonPath}`)
+  return structured
 }
 
 module.exports = { writeBillsCsv, writeBillsJson }

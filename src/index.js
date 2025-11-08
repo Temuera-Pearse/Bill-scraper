@@ -24,6 +24,7 @@ const {
 const { scrapeBillDetail } = require('./pages/billDetail')
 const { openViewWholeAndGetText } = require('./pages/legislation')
 const { writeBillsCsv, writeBillsJson } = require('./output/csv')
+const { sendBillsToServer } = require('./webapi/dbServer')
 
 // ---- Global error guards ----
 process.on('unhandledRejection', (err) => {
@@ -58,6 +59,7 @@ process.on('uncaughtException', (err) => {
 
   const results = []
   let scrapedCount = 0
+  let lastVw = null
 
   try {
     log.info('Navigating to bills list (Current tab)…')
@@ -104,6 +106,7 @@ process.on('uncaughtException', (err) => {
               detailPage,
               base.readBillUrl
             )
+            lastVw = vw
             viewWholeUrl = vw.viewWholeUrl
             fullText = vw.fullText
           }
@@ -128,7 +131,7 @@ process.on('uncaughtException', (err) => {
             readBillUrl: base.readBillUrl,
             viewWholeUrl,
             fullTextPath,
-            summarySnippet: snippet(fullText, 400),
+            fullText,
             status: base.status || '',
             error: '',
           })
@@ -189,7 +192,8 @@ process.on('uncaughtException', (err) => {
 
     log.info(`Writing CSV to ${JSON_PATH}…`)
     // await writeBillsCsv(JSON_PATH, results)
-    await writeBillsJson(JSON_PATH, results)
+    const bills = await writeBillsJson(JSON_PATH, results)
+    await sendBillsToServer(bills)
     log.info('CSV saved at:', JSON_PATH)
     log.info(`Success. Scraped ${scrapedCount} bills.`)
   } catch (err) {
